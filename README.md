@@ -5,11 +5,8 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **42 Common Core Graduate** — survived the gauntlet of peer-learning and 100+ hour coding weeks.  
-- 💡 I love solving problems, learning new tech, and making code both **functional** and **beautiful**.  
-- 🌱 Currently improving my backend skills and building fun side projects.  
-- 🚀 Actively looking for an **internship** to grow as a developer and contribute to a real-world team.  
-
+🎓 **42 Common Core Graduate** — just wrapped up one of the most intense and rewarding journeys of my life.  
+💼 Currently looking for an **internship** to put my skills to the test, learn from real-world challenges, and grow into a better developer.   
 ---
 
 ## 🛠 Tech Stack  
@@ -48,7 +45,7 @@
 
 ## 📫 Let’s Connect  
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ayman.elk17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/alakhida"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/alakhida"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
