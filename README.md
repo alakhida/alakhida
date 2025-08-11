@@ -48,10 +48,7 @@ I’m eager to join a team where I can:
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/alakhida"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/alakhida"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House 
 
 ---
 
