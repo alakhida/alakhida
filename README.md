@@ -34,14 +34,36 @@
 
 ---
 
-## 🌟 Fun Stats  
+## 🌟 Featured Projects  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alakhida&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alakhida&layout=compact&theme=tokyonight" height="160"/>
+  <a href="https://github.com/alakhida/Cub3D">
+    <img src="https://github.com/alakhida/Cub3D/raw/main/banner.png" width="45%" alt="Cub3D Preview"/>
+  </a>
+  <a href="https://github.com/alakhida/minishell">
+    <img src="https://github.com/alakhida/minishell/raw/main/banner.png" width="45%" alt="Minishell Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alakhida/Inception">
+    <img src="https://github.com/alakhida/Inception/raw/main/banner.png" width="45%" alt="Inception Preview"/>
+  </a>
+  <a href="https://github.com/alakhida/philosophers">
+    <img src="https://github.com/alakhida/philosophers/raw/main/banner.png" width="45%" alt="Philosophers Preview"/>
+  </a>
 </p>
 
 ---
+
+## 🔭 Currently Working On  
+- 🌐 Building my portfolio site with a crazy ASCII/ANSI art theme.  
+- 🐧 Customizing my i3wm Linux setup for peak productivity.  
+- 📚 Learning advanced backend concepts.  
+
+---
+
+🎯 _My goal right now: join an amazing team as an intern, learn from the best, and contribute to meaningful code._
 
 ## 📫 Let’s Connect  
 <p align="center">
